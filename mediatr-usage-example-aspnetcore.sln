@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediatR.Usage.Api", "MediatR.Usage.Api\MediatR.Usage.Api.csproj", "{E0BD7295-BEA3-47A7-9728-693B313D7164}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0BD7295-BEA3-47A7-9728-693B313D7164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0BD7295-BEA3-47A7-9728-693B313D7164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0BD7295-BEA3-47A7-9728-693B313D7164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0BD7295-BEA3-47A7-9728-693B313D7164}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CB2B66B-6A12-42B8-B441-C25B25A802C1}
+	EndGlobalSection
+EndGlobal
